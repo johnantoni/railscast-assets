@@ -4,7 +4,7 @@ require "railscast/assets/rails/version"
 
 Gem::Specification.new do |gem|
   gem.name        = "railscast-assets"
-  gem.version     = Backbone::Forms::Rails::VERSION
+  gem.version     = Railscast::Assets::Rails::VERSION
   gem.authors     = ["John Griffiths"]
   gem.email       = ["john@uxgent.co"]
   gem.homepage    = "https://github.com/johnantoni/railscast-assets"
